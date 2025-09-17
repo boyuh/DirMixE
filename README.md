@@ -2,11 +2,22 @@
 
 This repository is the official code for the paper [Harnessing Hierarchical Label Distribution Variations in Test Agnostic Long-tail Recognition](https://arxiv.org/abs/2405.07780) (ICML 2024).
 
-[![PWC](https://img.shields.io/endpoint.svg?url=https://paperswithcode.com/badge/harnessing-hierarchical-label-distribution/test-agnostic-long-tailed-learning-on-cifar-2)](https://paperswithcode.com/sota/test-agnostic-long-tailed-learning-on-cifar-2?p=harnessing-hierarchical-label-distribution)[![PWC](https://img.shields.io/endpoint.svg?url=https://paperswithcode.com/badge/harnessing-hierarchical-label-distribution/test-agnostic-long-tailed-learning-on-cifar-3)](https://paperswithcode.com/sota/test-agnostic-long-tailed-learning-on-cifar-3?p=harnessing-hierarchical-label-distribution)[![PWC](https://img.shields.io/endpoint.svg?url=https://paperswithcode.com/badge/harnessing-hierarchical-label-distribution/test-agnostic-long-tailed-learning-on)](https://paperswithcode.com/sota/test-agnostic-long-tailed-learning-on?p=harnessing-hierarchical-label-distribution)[![PWC](https://img.shields.io/endpoint.svg?url=https://paperswithcode.com/badge/harnessing-hierarchical-label-distribution/test-agnostic-long-tailed-learning-on-1)](https://paperswithcode.com/sota/test-agnostic-long-tailed-learning-on-1?p=harnessing-hierarchical-label-distribution)
+
+<p align="center">
+<a href="https://arxiv.org/abs/2405.07780"><img src="https://img.shields.io/badge/arXiv-Paper-<color>"></a>
+<a href="https://icml.cc/virtual/2024/poster/33489"><img src="https://img.shields.io/static/v1?label=ICML&message=Poster&color=orange"></a>
+<a href="" target='_blank'>
+<a href="https://youtu.be/oo2oFO0v_rM"><img src="https://img.shields.io/static/v1?label=Talk&message=Video&color=6023C0"></a>
+<a href="" target='_blank'>
+<img src="https://visitor-badge.laobi.icu/badge?page_id=scongl.DirMixE" />
+</a>
+</p>
+
+
 
 **Paper Title: Harnessing Hierarchical Label Distribution Variations in Test Agnostic Long-tail Recognition.**
 
-**Author: [Zhiyong Yang](https://joshuaas.github.io/), [Qianqian Xu*](https://qianqianxu010.github.io/), [Zitai Wang](https://wang22ti.com/), Sicong Li, Boyu Han, [Shilong Bao](https://statusrank.github.io/), [Xiaochun Cao](https://scst.sysu.edu.cn/members/1401493.htm), [Qingming Huang*](https://people.ucas.ac.cn/~qmhuang)**
+**Author: [Zhiyong Yang](https://joshuaas.github.io/), [Qianqian Xu*](https://qianqianxu010.github.io/), [Zitai Wang](https://wang22ti.com/), Sicong Li, [Boyu Han](https://boyuh.github.io/), [Shilong Bao](https://statusrank.github.io/), [Xiaochun Cao](https://scst.sysu.edu.cn/members/1401493.htm), [Qingming Huang*](https://people.ucas.ac.cn/~qmhuang)**
 
 ![key_idea](figs/key_idea.png)
 
